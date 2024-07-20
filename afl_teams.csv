@@ -1,0 +1,22 @@
+current_name,abbrev,chart_name,team_colours,second_colour,premiers_colour,prev_premiers_colour,team_url
+Carlton,CAR,Carlton,#0c1c34,white,#bdb76b,red,/wiki/Carlton_Football_Club
+Collingwood,COL,Collingwood,#000000,white,#bdb76b,gold,/wiki/Collingwood_Football_Club
+Essendon,ESS,Essendon,black,red,#bdb76b,gold,/wiki/Essendon_Football_Club
+Fitzroy,FIT,Fitzroy,#27245e,#eb1e27,#bdb76b,#ece710,/wiki/Fitzroy_Football_Club
+Geelong,GEE,Geelong,#002b5c,white,#bdb76b,red,/wiki/Geelong_Football_Club
+Melbourne,MEL,Melbourne,#0f1131,#cc2031,#bdb76b,gold,/wiki/Melbourne_Football_Club
+Sydney,SYD,Sydney Swans,#ed171f,white,#bdb76b,gold,/wiki/Sydney_Swans
+St Kilda,STK,St Kilda,#ed1b2f,black,#bdb76b,gold,/wiki/St_Kilda_Football_Club
+Richmond,RIC,Richmond,black,#ffd200,#bdb76b,red,/wiki/Richmond_Football_Club
+University,UNI,University,black,#2d5090,#bdb76b,red,/wiki/Melbourne_University_Football_Club
+Western Bulldogs,WBD,Western Bulldogs,#1a529e,#be0027,#bdb76b,gold,/wiki/Western_Bulldogs
+Hawthorn,HAW,Hawthorn,#4d2004,#fbbf15,#bdb76b,red,/wiki/Hawthorn_Football_Club
+North Melbourne,NME,North Melbourne,#1a3b8e,white,#bdb76b,red,/wiki/North_Melbourne_Football_Club
+Brisbane Bears,BRB,Brisbane Bears,#771c2b,#ecc95b,#bdb76b,red,/wiki/Brisbane_Bears
+West Coast,WCE,West Coast Eagles,#003087,#f2a900,#bdb76b,red,/wiki/West_Coast_Eagles
+Adelaide,ADE,Adelaide Crows,#002b5c,#e21937,#bdb76b,#ffd200,/wiki/Adelaide_Football_Club
+Fremantle,FRE,Fremantle Dockers,#2a0d54,white,#bdb76b,gold,/wiki/Fremantle_Football_Club
+Brisbane Lions,BRL,Brisbane Lions,#7c0040,#0055a3,#bdb76b,#fdbe57,/wiki/Brisbane_Lions
+Port Adelaide,POR,Port Adelaide,#000000,white,#bdb76b,#008aab,/wiki/Port_Adelaide_Football_Club
+Gold Coast,GOL,Gold Coast Suns,#ee3728,#ffdf16,#bdb76b,#1080c1,/wiki/Gold_Coast_Suns
+Greater Western Sydney,GWS,GWS Giants, #f47920,white,#bdb76b,black,/wiki/Greater_Western_Sydney_Giants
